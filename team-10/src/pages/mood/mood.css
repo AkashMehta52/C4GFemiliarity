@@ -1,0 +1,56 @@
+.App {
+    text-align: center;
+    align-items: center;
+    flex: 4;
+}
+
+.flex {
+    display: flex;
+}
+  
+.container {
+    justify-content: center;
+    margin-top: 150px;
+}
+
+.container2 {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.comment-box {
+    align-content: center;
+}
+
+.item {
+    margin-right: 35px;
+}
+
+.btn-wrapper {
+    margin-top: 40px;
+}
+
+.emoji {
+    width: 50px;
+}
+
+.btn-secondary,  .btn-secondary:hover, .btn-secondary:active, .btn-secondary:focus {
+    background-color:white;
+    border-radius: 25px;
+    border-color:white;
+}
+
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:focus {
+    background-color: rgb(236, 190, 190);
+    color:black;
+    border-color:black;
+}
+
+.custom-switch {
+    margin-top: 40px;
+}
+
+.custom-control-label {
+    margin-left: 5px;
+}
